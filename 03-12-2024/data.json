@@ -1,0 +1,157 @@
+[
+    {
+        "id": "2",
+        "category":"mens shoes",
+         "price":"₹500",
+         "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d973b32f-2890-4146-81ef-b6bce38ed64d/NIKE+AIR+MAX+PLUS+III.png"
+      },
+      {
+        "id": "3",
+        "category":"mens shoes",
+         "price":"₹600"
+      },
+      {
+        "id": "4",
+         "category":"mens shoes",
+         "price":"₹700"
+      },
+      {
+        "id": "5",
+         "category":"mens shoes",
+         "price":"₹700"
+      },
+      {
+        "id": "5",
+         "category":"mens shoes",
+         "price":"₹500"
+      },
+      {
+         "id": "5",
+         "category":"mens shoes",
+         "price":"₹600"
+      },
+      {
+        "id": "6",
+        "category":"mens shoes",
+        "price":"₹700"
+      },
+      {
+        "id": "7",
+        "category":"mens shoes",
+        "price":"₹900"
+      },
+      {
+        "id": "8",
+        "category":"mens shoes",
+        "price":"₹400"
+      },
+      {
+        "id": "9",
+         "category":"mens shoes",
+         "price":"₹800"
+      },
+      {
+        "id": "10",
+         "category":"mens shoes",
+         "price":"₹900"
+      },
+      {
+        "id": "11",
+         "category":"mens shoes",
+         "price":"₹500"
+      },
+      {
+         "id": "12",
+         "category":"mens shoes",
+         "price":"₹800"
+      },
+      {
+        "id": "13",
+        "category":"mens shoes",
+        "price":"₹600"
+      },
+      {
+        "id": "14",
+        "category":"mens shoes",
+        "price":"₹700"
+      },
+      {
+        "id": "15",
+        "category":"mens shoes",
+        "price":"₹600"
+      },
+      {
+        "id": "16",
+         "category":"mens shoes",
+         "price":"₹800"
+      },
+      {
+        "id": "17",
+         "category":"mens shoes",
+       "price":"₹900"
+      },
+      {
+        "id": "18",
+         "category":"mens shoes",
+         "price":"₹600"
+      },
+      {
+         "id": "19",
+         "category":"mens shoes",
+         "price":"₹700"
+      },
+      {
+        "id": "20",
+        "category":"mens shoes",
+        "price":"₹800"
+      },
+      {
+        "id": "21",
+        "category":"mens shoes",
+        "price":"₹700"
+      },
+      {
+        "id": "22",
+        "category":"mens shoes",
+        "price":"₹600"
+      },
+      {
+        "id": "23",
+         "category":"mens shoes",
+         "price":"₹700"
+      },
+      {
+        "id": "24",
+        "category":"mens shoes",
+        "price":"₹900"
+    
+      },
+      {
+        "id": "25",
+         "category":"mens shoes",
+         "price":"₹800"
+      },
+      {
+         "id": "26",
+         "category":"mens shoes",
+         "price":"₹900"
+    
+      },
+      {
+        "id": "27",
+        "category":"mens shoes",
+        "price":"₹700"
+    
+      },
+      {
+        "id": "28",
+        "category":"mens shoes",
+        "price":"₹600"
+      },
+      {
+        "id": "29",
+        "category":"mens shoes",
+        "price":"₹800"
+      }
+    ]
+    
