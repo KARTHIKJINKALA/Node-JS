@@ -1,0 +1,95 @@
+[
+    {
+        "id": "1",
+        "name":"Krishnapatnam",
+        "rating":"4.6",
+         "image":"https://b.zmtcdn.com/data/pictures/chains/1/18808521/9f666524cd884ca4cbee928660946de8_featured_v2.jpg?output-format=webp"
+      },
+   
+      {
+        "id": "2",
+        "name":"Trops Kitchen & Tavern",
+        "rating":"4.3",
+         "image":"https://b.zmtcdn.com/data/pictures/8/20532598/dc3ab3c49d679338de42e564049fe350_featured_v2.jpg?output-format=webp"
+      },
+      {
+        "id": "3",
+        "name":"Barkaas Indo Arabic Restaurant",
+        "rating":"4.4",
+         "image":"https://b.zmtcdn.com/data/pictures/3/20834993/517d82d5715fcb563a08e5871cfc0b30_featured_v2.jpg?output-format=webp"
+      },
+      {
+        "id": "4",
+        "name":"Platform 65",
+        "rating":"4.2",
+         "image":"https://b.zmtcdn.com/data/pictures/4/19274764/88d5bff520d559b5dc94727d3d27bd44_featured_v2.jpg?output-format=webp"
+      },
+      {
+        "id": "5",
+        "name":"Lakshmi's United Kitchen",
+        "rating":"4.0",
+         "image":"https://b.zmtcdn.com/data/pictures/3/20520313/29b51af9d147813041fbc32a65a69433_featured_v2.jpg?output-format=webp"
+      },
+      {
+        "id": "6",
+        "name":"Food Exchange",
+        "rating":"4.9",
+         "image":"https://b.zmtcdn.com/data/pictures/3/18880623/5020da85f92ab74168dd84b963061ad7_featured_v2.jpg?output-format=webp"
+      },
+      {
+        "id": "7",
+        "name":"Leon's Burgers & Wings",
+        "rating":"4.1",
+         "image":"https://b.zmtcdn.com/data/pictures/chains/6/20428596/eefd6011022ffa01ec1c0c9becfaded1_featured_v2.jpg"
+      },
+      {
+        "id": "8",
+        "name":"Barbeque Holic",
+        "rating":"4.5",
+         "image":"https://b.zmtcdn.com/data/pictures/8/20357948/1cdf7366c7878b6e3d81e9b0871a93c8_featured_v2.jpg"
+      },
+      {
+        "id": "9",
+        "name":"#4 Cafe And Mandi",
+        "rating":"4.7",
+         "image":"https://b.zmtcdn.com/data/pictures/1/21199081/3f37b2637dcad5b28f5ca9346b17cc2b_featured_v2.jpg"
+      },
+      {
+        "id": "10",
+        "name":"Hotel Sitara Grand",
+        "rating":"3.8",
+         "image":"https://b.zmtcdn.com/data/pictures/chains/2/18550292/02cde951f300cda245e6881bd1946f55_featured_v2.jpg"
+      },
+      {
+        "id": "11",
+        "name":"Firestone Grill",
+        "rating":"3.9",
+         "image":"https://b.zmtcdn.com/data/pictures/9/20983729/7845f3ec74a7d30ed8e6c6463ba6c489_featured_v2.jpg"
+      },
+      {
+        "id": "12",
+        "name":"The Joint Al- Mandi",
+        "rating":"4.0",
+         "image":"https://b.zmtcdn.com/data/pictures/9/20730219/39a618f51d71ff065add7686d4f785fc_featured_v2.jpg"
+      },
+      {
+        "id": "13",
+        "name":"Flames & Pots",
+        "rating":"4.6",
+         "image":"https://b.zmtcdn.com/data/pictures/5/20987575/7874a47afeed77a377f24b090a8eec02_featured_v2.jpg"
+      },
+      {
+        "id": "14",
+        "name":"Artistry",
+        "rating":"4.1",
+         "image":"https://b.zmtcdn.com/data/pictures/4/19578124/9400d53dfbb373266f25ec96bbb08d60_featured_v2.jpg"
+      },
+      {
+        "id": "15",
+        "name":"Fondof Coffee Lounge",
+        "rating":"4.1",
+         "image":"https://b.zmtcdn.com/data/pictures/5/21197375/56afd96798ec4dac2d2e7afa115c8c93_featured_v2.jpg"
+      }
+    ]
+
+    

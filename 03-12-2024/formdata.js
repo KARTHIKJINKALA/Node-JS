@@ -3,8 +3,9 @@ var app=express()
 
 app.use(express.json())
 app.use(express.urlencoded({extended:true}))
-app.post("/products",(req,res)=>{
 
+app.post("/products",(req,res)=>{
+ console.log(req.body)
  res.send(req.body)
 })
 var port=3002
