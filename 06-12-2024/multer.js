@@ -1,18 +1,32 @@
-var express=require("express")
-var app=express()
-var multer=require("multer")
+var express = require("express");
+var multer = require("multer");
+var app = express();
 
-var storage=multer.diskStorage({
-    destination:(req,file,cb)=>{
-        cb(null,"")
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 
-    }
-})
+var storagedata = multer.diskStorage({
+    destination: (req, file, cb) => {
+        cb(null, __dirname + "/images");
+    },
+    filename: (req, file, cb) => {
+        cb(null, Date.now() + "dummy.json");
+    },
+});
 
-app.post("/products",(req,res)=>{
-    res.send("multer")
-})
-var port=3008
-app.listen(port,()=>{
-    console.log("Server has been started succesfully")
-})
+var upload = multer({ storage: storagedata });
+
+app.post("/products", upload.single("file"), (req, res) => {
+    console.log("Body:", req.body);
+    console.log("File:", req.file);
+
+    res.send({
+        file: req.file,
+        data: req.body,
+    });
+});
+
+var port = 3008;
+app.listen(port, () => {
+    console.log("Server has been started successfully");
+});
