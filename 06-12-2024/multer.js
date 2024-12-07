@@ -1,6 +1,10 @@
 var express = require("express");
 var multer = require("multer");
 var app = express();
+var cors=require("cors")
+
+
+app.use(cors())
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
@@ -12,6 +16,7 @@ var storagedata = multer.diskStorage({
     filename: (req, file, cb) => {
         cb(null, Date.now() + "dummy.json");
     },
+
 });
 
 var upload = multer({ storage: storagedata });
