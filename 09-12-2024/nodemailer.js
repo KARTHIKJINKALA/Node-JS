@@ -1,5 +1,7 @@
 var express=require("express")
 var nodemailer=require("nodemailer")
+// var dotenv=require("env")
+
 var app=express()
 
 var transporter=nodemailer.createTransport({
@@ -13,9 +15,9 @@ var transporter=nodemailer.createTransport({
 })
 var options={
     from:"karthikjinkala11@gmail.com",
-    to:"karthikjinkala12@gmail.com",
+    to:"karthikjinkala11@gmail.com",
     subject: 'Sending Email using Node.js',
-    text: 'this is smtp!'
+    text: 'hi bro namaste!'
 }
 
 app.get("/gmail",(req,res)=>{
