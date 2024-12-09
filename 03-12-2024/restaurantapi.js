@@ -4,7 +4,7 @@ var fs=require("fs")
 var cors=require("cors")
 
 app.use(cors())
-
+app.use(express.json())
 app.get("/",(req,res)=>{
     fs.readFile("./data2.json","utf-8",(err,data)=>{
     if(err){
